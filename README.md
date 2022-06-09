@@ -1,4 +1,4 @@
-# primeiro-reposit-rio
+# primeiro-repositorio
 
 Para copiar o código em HTML:
 '''
